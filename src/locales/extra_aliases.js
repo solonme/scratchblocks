@@ -10,6 +10,14 @@
 
 module.exports = {
 
+  ko: { // German
+    '시계방향으로 %n 도 돌기': 'turn @turnLeft %n degrees',
+    '반시계방향으로 %n 도 돌기': 'turn @turnRight %n degrees',
+    '초록 깃발클을 클릭했을 때': 'when @greenFlag clicked',
+    '끝': 'end',
+  },
+
+
   de: { // German
     'drehe dich nach links um %n Grad': 'turn @turnLeft %n degrees',
     'drehe dich nach rechts um %n Grad': 'turn @turnRight %n degrees',
