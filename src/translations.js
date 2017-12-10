@@ -2074,6 +2074,7 @@ scratchblocks.loadLanguages({
       "change %m.var by %n": "%m.var 을(를) %n 만큼 바꾸기", 
       "when I start as a clone": "복제되었을 때", 
       "when %m.triggerSensor > %n": "%m.triggerSensor > %n 일 때", 
+      "end": "마침", 
       "pick random %n to %n": "%n 부터 %n 사이의 난수", 
       "tilt": "기울기", 
       "change tempo by %n": "빠르기를 %n 만큼 바꾸기", 
